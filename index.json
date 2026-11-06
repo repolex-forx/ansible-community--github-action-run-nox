@@ -1,0 +1,11 @@
+{
+  "org": "ansible-community",
+  "repo": "github-action-run-nox",
+  "versions": [
+    {
+      "commit": "d67fa677ce308414356266dcbf022778a90e35cc",
+      "tag": "",
+      "parsed_at": "2026-11-06T19:41:41.610297+00:00"
+    }
+  ]
+}
