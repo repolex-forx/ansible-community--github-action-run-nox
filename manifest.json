@@ -1,0 +1,29 @@
+{
+  "manifest_version": "1.0",
+  "org": "ansible-community",
+  "repo": "github-action-run-nox",
+  "versions": [
+    {
+      "commit": "d67fa677ce308414356266dcbf022778a90e35cc",
+      "parsed_at": "2026-11-06T19:39:36.624364+00:00",
+      "filetree": "filetree/d67fa677ce308414356266dcbf022778a90e35cc.nq.gz",
+      "blobs": [
+        "blob/812e0a54a9226636356656612d4f5b7c2a08c095.nq.gz",
+        "blob/4663c0dc4a46469b37e41f312178939069290899.nq.gz",
+        "blob/f202516808cc58b77fea74cf64d410adafd22155.nq.gz",
+        "blob/ded70ecc18a6b7d1b2a17883aa9c512a5fd7af98.nq.gz",
+        "blob/f88a4657de504ee89bbaa717b7d8247acb019b3d.nq.gz",
+        "blob/f288702d2fa16d3cdf0035b15a9fcbc552cd88e7.nq.gz",
+        "blob/11abc010f9eea7478b1b58c5afb41b9c7f45a451.nq.gz",
+        "blob/012065c8539f2bd3e61eecc74acf5a046956de40.nq.gz",
+        "blob/3e5c3b6807327242f5e927ec05c7186600b1550e.nq.gz",
+        "blob/d43561594a143fd74787862a0e80ea5dbbe603f6.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}

@@ -1,0 +1,14 @@
+{
+  "@context": "https://repolex.ai/ontology/jsonld-context/repolex-context.jsonld",
+  "@id": "https://repolex.ai/r/ansible-community/github-action-run-nox",
+  "@type": "gh:Repository",
+  "gh:name": "github-action-run-nox",
+  "gh:owner": "ansible-community",
+  "repolex:trackedCommit": [
+    {
+      "@id": "https://repolex.ai/r/ansible-community/github-action-run-nox/commit/d67fa677ce308414356266dcbf022778a90e35cc",
+      "git:hexsha": "d67fa677ce308414356266dcbf022778a90e35cc",
+      "repolex:parseStatus": "metadata_complete"
+    }
+  ]
+}
